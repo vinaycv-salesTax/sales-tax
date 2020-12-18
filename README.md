@@ -9,7 +9,7 @@ When I purchase items I receive a receipt which lists the name of all the items 
 Write an application that prints out the receipt details for these shopping baskets...
 
 ## INPUT:
-
+```
 Input 1:
 1 book at 12.49
 1 music CD at 14.99
@@ -32,10 +32,10 @@ Input 4:
 2 book at 12.49
 1 music CD at 14.99
 1 chocolate bar at 0.85
-
+```
 
 ## OUTPUT
-
+```
 Output 1:
 1 book : 12.49
 1 music CD: 16.49
@@ -64,7 +64,7 @@ Output 4:
 1 music CD: 16.49
 Sales Taxes: 1.50
 Total: 42.32
-
+```
 ===================================
 
 
