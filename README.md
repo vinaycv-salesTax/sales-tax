@@ -48,7 +48,9 @@ Output 2:
 1 imported box of chocolates: 10.50
 1 imported bottle of perfume: 54.65
 Sales Taxes: 7.65
-Total: 65.15
+Total: 65.15.
+
+
 Output 3:
 1 imported bottle of perfume: 32.19
 1 bottle of perfume: 20.89
@@ -64,6 +66,7 @@ Output 4:
 1 music CD: 16.49
 Sales Taxes: 1.50
 Total: 42.32
+
 ```
 ===================================
 
